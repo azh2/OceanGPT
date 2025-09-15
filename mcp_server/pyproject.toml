@@ -8,5 +8,5 @@ dependencies = [
     "fastmcp>=2.3.4",
     "openai>=1.79.0",
     "openapi-pydantic==0.5.1",
-    "requests==2.30.0",
+    "requests==2.32.4",
 ]
